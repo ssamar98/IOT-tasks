@@ -1,0 +1,7 @@
+1- Download arduino IDE.
+2- Open arduino, File>> preferences>> insert the link "https://dl.espressif.com/dl/package_esp32_index.json" , then Ok.
+3- Tools>> board:"arduino">> board manager>> select ESP32 and install.
+4- Tools>> board>> ESP32 arduino>> select ESP32 Dev module.
+5- Oonnect the electronic piece to the computer using USB port.
+6- Tools>> prot>> choose COM26.
+7- To test the electronic piece: File>> Example>> 0.1 basics>> Blink>> and run.
